@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.components.multi_node.trainer
+
+
+LightningTrainerMultiNode
+=========================
+
+.. autoclass:: LightningTrainerMultiNode
+    :members:
+    :noindex:

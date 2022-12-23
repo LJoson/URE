@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.components.multi_node.base
+
+
+MultiNode
+=========
+
+.. autoclass:: MultiNode
+    :members:
+    :noindex:

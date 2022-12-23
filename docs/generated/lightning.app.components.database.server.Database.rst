@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.components.database.server
+
+
+Database
+========
+
+.. autoclass:: Database
+    :members:
+    :noindex:

@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.components.training
+
+
+LightningTrainerScript
+======================
+
+.. autoclass:: LightningTrainerScript
+    :members:
+    :noindex:

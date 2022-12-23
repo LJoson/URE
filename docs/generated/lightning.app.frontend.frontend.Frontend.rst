@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.frontend.frontend
+
+
+Frontend
+========
+
+.. autoclass:: Frontend
+    :members:
+    :noindex:

@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.runners.multiprocess
+
+
+MultiProcessRuntime
+===================
+
+.. autoclass:: MultiProcessRuntime
+    :members:
+    :noindex:

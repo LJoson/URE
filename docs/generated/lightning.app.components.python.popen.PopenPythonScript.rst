@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.components.python.popen
+
+
+PopenPythonScript
+=================
+
+.. autoclass:: PopenPythonScript
+    :members:
+    :noindex:

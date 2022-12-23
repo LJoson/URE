@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.storage.path
+
+
+Path
+====
+
+.. autoclass:: Path
+    :members:
+    :noindex:

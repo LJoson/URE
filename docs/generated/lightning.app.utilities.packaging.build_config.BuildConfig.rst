@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.utilities.packaging.build_config
+
+
+BuildConfig
+===========
+
+.. autoclass:: BuildConfig
+    :members:
+    :noindex:

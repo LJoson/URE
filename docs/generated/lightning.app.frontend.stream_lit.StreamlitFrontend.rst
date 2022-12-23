@@ -1,0 +1,13 @@
+:orphan:
+
+.. role:: hidden
+    :class: hidden-section
+.. currentmodule:: lightning.app.frontend.stream_lit
+
+
+StreamlitFrontend
+=================
+
+.. autoclass:: StreamlitFrontend
+    :members:
+    :noindex:

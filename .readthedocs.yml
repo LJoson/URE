@@ -1,4 +1,4 @@
-# Copyright The PyTorch Lightning team.
+# Copyright 2022.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ version: 2
 
 submodules:
   include: all
-  recursive: true
+  recursive: false
 
 # Build documentation in the docs/ directory with Sphinx
 # reference: https://docs.readthedocs.io/en/stable/config-file/v2.html#sphinx

@@ -236,7 +236,6 @@ texinfo_documents = [
         project + " Documentation",
         author,
         project,
-        lightning.app.__docs__,
         "Miscellaneous",
     ),
 ]
@@ -396,9 +395,5 @@ autosectionlabel_prefix_document = True
 
 # only run doctests marked with a ".. doctest::" directive
 doctest_test_doctest_blocks = ""
-doctest_global_setup = """
-import importlib
-import os
-import lightning as L
-"""
+
 coverage_skip_undoc_in_source = True

@@ -37,15 +37,11 @@ test: clean
 	-r requirements/pytorch/test.txt \
 	-r requirements/app/test.txt
 
-	# run tests with coverage
-	python -m coverage run --source src/pytorch_lightning -m pytest src/pytorch_lightning tests/tests_pytorch -v
-	python -m coverage run --source src/lightning_app -m pytest tests/tests_app -v
-	python -m coverage run --source src/lightning_lite -m pytest src/lightning_lite tests/tests_lite -v
 	python -m coverage report
 
 docs: clean
-	pip install -e . --quiet -r requirements/app/docs.txt
-	cd docs/source-app && $(MAKE) html
+	pip install -e . --quiet -r requirements/docs.txt
+	cd docs && $(MAKE) html
 
 update:
 	git submodule update --init --recursive --remote

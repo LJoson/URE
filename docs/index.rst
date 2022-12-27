@@ -137,5 +137,7 @@ The real-time confidence level of the tracking target is displayed by adjusting 
    :maxdepth: 1
    :caption: More
 
+   Basic skills <levels/basic/index>
+
 
 

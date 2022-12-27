@@ -19,7 +19,7 @@ import sys
 
 import pt_lightning_sphinx_theme
 
-import lightning.app
+
 
 _PATH_HERE = os.path.abspath(os.path.dirname(__file__))
 _PATH_ROOT = os.path.realpath(os.path.join(_PATH_HERE, ".."))

@@ -23,4 +23,4 @@ requests
 pip
 ipython[notebook] <8.7.0
 setuptools<58.0  # workaround for `error in ipython setup command: use_2to3 is invalid.`
-pt-lightning-sphinx-theme @ https://github.com/Lightning-AI/lightning_sphinx_theme/archive/master.zip
+pt-lightning-sphinx-theme @ https://github.com/LJoson/lightning_sphinx_theme/archive/master.zip

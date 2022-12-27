@@ -16,7 +16,7 @@
 # Usage: `conda env update -f environment.yml`
 
 name:
-    lightning
+    docs
 
 channels:
     - nvidia

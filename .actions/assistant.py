@@ -28,20 +28,9 @@ from typing import Dict, List, Optional, Sequence, Tuple
 from pkg_resources import parse_requirements
 
 REQUIREMENT_FILES = {
-    "pytorch": (
-        "requirements/pytorch/base.txt",
-        "requirements/pytorch/extra.txt",
-        "requirements/pytorch/strategies.txt",
-        "requirements/pytorch/examples.txt",
-    ),
-    "app": (
-        "requirements/app/base.txt",
-        "requirements/app/ui.txt",
-        "requirements/app/cloud.txt",
-    ),
-    "lite": (
-        "requirements/lite/base.txt",
-        "requirements/lite/strategies.txt",
+    "docs": (
+        "requirements/base.txt",
+        "requirements/docs.txt",
     ),
 }
 REQUIREMENT_FILES_ALL = list(chain(*REQUIREMENT_FILES.values()))

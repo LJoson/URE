@@ -17,7 +17,7 @@ on:
       - ".github/workflows/ci-pytorch-tests.yml"
       - "requirements/lite/**"
       - "src/lightning_lite/**"
-      - "!requirements/docs.txt"
+      - "!requirements/pytorch/docs.txt"
       - "!*.md"
       - "!**/*.md"
 

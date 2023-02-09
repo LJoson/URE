@@ -68,7 +68,7 @@ subprojects:
       - ".azure/gpu-benchmark.yml"
       - "tests/tests_pytorch/benchmarks/**"
       - "requirements/pytorch/**"
-      - "!requirements/pytorch/docs.txt"
+      - "!requirements//docs.txt"
       - "!*.md"
       - "!**/*.md"
     checks:
